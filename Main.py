@@ -1,3 +1,8 @@
+#Elisabet Lopez
+#CS 2302 10:30AM
+#Lab Assignment 1 Option A
+#Last modified: September 11, 2018
+
 import os
 import random
 
@@ -21,7 +26,7 @@ def process_dir(path, cat_list, dog_list):
 
     dir_list, file_list = get_dirs_and_files(path)
 
-    #tests
+    #tests to track traversal of directories by displaying dir_list and file_list after each call
     print("dir_list")
     print(dir_list)
     print("file_list")
@@ -59,7 +64,7 @@ def main():
 
     process_dir(start_path, cat_list, dog_list)
     
-    #tests
+    #tests to display the contents of cat_list and dog_list to determine if output is correct
     print(cat_list, "\n")
     print(dog_list)
 
