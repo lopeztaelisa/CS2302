@@ -1,6 +1,6 @@
 #Author: Elisabet Lopez
 #CS 2302 10:30AM
-#Instructor: Diego Aguiree
+#Instructor: Diego Aguirre
 #T.A.: Manoj Pravaka Saha
 #Lab Assignment 2 Option B
 #Last modified: October 18, 2018
