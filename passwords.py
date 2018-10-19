@@ -3,7 +3,7 @@
 #Instructor: Diego Aguiree
 #T.A.: Manoj Pravaka Saha
 #Lab Assignment 2 Option B
-#Last modified: 
+#Last modified: October 18, 2018
 
 #Purpose: This program takes a file with a list of usernames followed by their passwords and finds and prints the 20 most used passwords.
 #To accomplish this, this program creates a linked list of passwords without duplicates and with the count of the number of times
