@@ -39,7 +39,7 @@ def solutionA(filename):
 #calls create_llist_B to create linked list
 #calls merge_sort to sort linked list
 #prints 20 most used passwords along with the number of times they appear in the file
-#O(n)
+#O(nlogn)
 def solutionB(filename):
 	llist = create_llist_B(filename) #create linked list without duplicates
 	sorted_llist = merge_sort(llist) #sort linked list using merge sort
