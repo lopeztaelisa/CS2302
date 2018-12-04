@@ -10,7 +10,6 @@
 
 from GraphAL import GraphAL #adjacency list
 from DSF import DisjointSetForest #disjoint set forest
-from queue import *
 
 #returns minimum spanning tree using Kruskal's algorithm
 #assumes graph is undirected and represented with an adjacency list
